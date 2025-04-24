@@ -31,7 +31,6 @@ I'm Heba Genady, an AI Engineer with over 14 years of experience delivering inte
 ## 📫 Let's Connect!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/heba-genady-32448825/)
-- 🌐 Portfolio & Projects: *(Add your personal website if available)*
 - 💬 I'm always open to discussing AI collaborations, mentoring opportunities, or consulting on your next big idea.
 
 ---
